@@ -1,6 +1,3 @@
-
-$(document).ready(function() {
-    
 $("#home_btn").click(function() {
 
     $(this).addClass("highlight");
@@ -42,7 +39,3 @@ $("#home_btn").click(function() {
   
   
   $("#home_btn").click();
-  
-});
-
-});
