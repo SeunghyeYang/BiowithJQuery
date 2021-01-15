@@ -1,6 +1,3 @@
-
-$(document).ready(function() {
-    
 $("#home_btn").click(function() {
 
     $("#home").slideDown();
