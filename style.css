@@ -1,0 +1,65 @@
+#container {
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  font-family: "Avenir Next";
+}
+
+#navigation {
+  margin: 0 auto;
+  padding-bottom: 100px;
+  font-family: "Avenir Next"
+}
+
+.navi ul li {
+  background-color: transparent;
+  color: black;
+  padding: 40px 120px 0px 0px;
+  font-size: 16px;
+  list-style-type: none;
+  float: left;
+  margin right: 40px;
+}
+
+#contentList {
+  color: #666;
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: #efefef;
+  padding: 60px;
+  margin-bottom: 15px;
+}
+
+#contentList h1 {
+  font-size: 22px;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  color: #222;
+}
+
+#contentList p {
+  font-size: 14px;
+  line-height: 1.4;
+  margin-bottom: 0.5em;
+}
+
+#contentList p:last-child {
+  margin-bottom: 0px !important;
+}
+
+#contentList a {
+  color: #00789f;
+}
+
+#contentList ul {
+  font-size: 14px;
+  line-height: 1.4;
+  margin-bottom: 0.5em;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+#contentList *:last-child {
+  margin-bottom: 0 !important;
+}
